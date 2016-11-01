@@ -1,8 +1,8 @@
-# Project 3 - *Name of App Here*
+# Project 3 - *My tweet app*
 
-**Name of your app** is an android app that allows a user to view his Twitter timeline and post a new tweet. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
+**My tweet app** is an android app that allows a user to view his Twitter timeline and post a new tweet. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
 
-Time spent: **27** hours spent in total
+Time spent: **30** hours spent in total
 
 ## User Stories
 
@@ -51,7 +51,6 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
 <img src='http://i.imgur.com/l3IuiEy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
