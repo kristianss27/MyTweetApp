@@ -47,6 +47,7 @@ The following **bonus** features are implemented:
 The following **additional** features are implemented:
 
 * I've used greenDao as ORM
+* I implemented a background service in this app instead of using Async Task in order to let the app do all the SQL tasks
 
 ## Video Walkthrough
 
@@ -57,13 +58,13 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Took time to be involved with greenDao and other new things I learned developing this app.
 
 ## Open-source libraries used
 
 - [Android Async HTTP](https://github.com/loopj/android-async-http) - Simple asynchronous HTTP requests with JSON parsing
 - [Picasso](http://square.github.io/picasso/) - Image loading and caching library for Android
-- GreenDao ORM
+- [GreenDao ORM](http://greenrobot.org/) - ORM used to persistence data on your phone
 
 ## License
 
